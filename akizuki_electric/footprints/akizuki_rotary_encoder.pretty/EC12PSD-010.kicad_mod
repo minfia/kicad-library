@@ -44,7 +44,7 @@
   (pad "GND" thru_hole rect (at 7.5 -3.3) (size 3 3) (drill oval 2.3 2) (layers "*.Cu" "*.Mask") (tstamp c768ece2-f2c2-420c-85b9-552ce0954979))
   (pad "GND" thru_hole rect (at 7.5 8.3) (size 3 3) (drill oval 2.3 2) (layers "*.Cu" "*.Mask") (tstamp 32495fa4-673d-41b5-9631-b31cf52277d9))
   (pad "SW" thru_hole circle (at 14.5 -0.5) (size 1.8 1.8) (drill 1) (layers "*.Cu" "*.Mask") (tstamp dad45b7a-8d33-42fa-8323-1551eb1265de))
-  (model "../..//3dmodels/EC12PLxSDVF.wrl"
+  (model "../../3dmodels/EC12PLxSDVF.wrl"
     (offset (xyz 0.05 -0.05 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
